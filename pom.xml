@@ -16,6 +16,7 @@
     </dependency>
   </dependencies>
   <properties>
+  <sonar.host.url>http://3.227.211.14:9980/chaithratechnologies/</sonar.host.url>
   <sonar.login>admin</sonar.login>
   <sonar.password>admin</sonar.password>
   </properties>
