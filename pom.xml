@@ -31,7 +31,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Chaithra Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.204.168.151:9980/chaithratechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://34.204.168.151:9980/chaithratechnologies/repository/sample/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
